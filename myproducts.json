@@ -1,0 +1,46 @@
+{
+	"OfficeName": "My Weird items",
+	"OfficeLocation": "Toronto , Canada",
+	
+	"topDeals": [
+        {
+            "name": "A peanut butter and jelly of the month club",
+			"price": 468,
+			"description": "Spreading peanut butter and jelly on bread is too time-consuming",
+			"fectures": [
+				"Enjoy gourmet peanut butter and jelly sandwiches",
+				"Healthy breakfast"
+				
+			
+			],
+			"image": "peanut-butter-and-jelly-club.jpg"
+        },
+           {
+            "name": "Dancing with Cats",
+			"price": 13,
+			"description": "you’ll do anything for them, or with them",
+			"fectures": [
+				"Interpretive dance",
+				"Greate gift for cat lover",
+				"Can learn dance steps"
+				
+			],
+			"image": "dancing-with-cats.jpg"
+        },
+           {
+            "name": "A horror movie sound maker",
+			"price": 299,
+			"description": "Surprise guests by making them think It is hiding just around the corner.",
+			"fectures": [
+				"Satisfying ",
+				"Good decoration for bedroom"
+				
+			],
+			"image": "A1rJ7zjPkdL._SL1500_.jpg"
+        }
+	]
+}
+
+
+
+
